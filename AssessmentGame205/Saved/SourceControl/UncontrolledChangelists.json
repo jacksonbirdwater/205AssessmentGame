@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Input/IMC_Character.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BPC_Health.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Universal_Anim_Library/Unity/UAL1_Standard_RMArmature_Death01.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Universal_Anim_Library/Unity/UAL1_Standard_RMArmature_Sword_Attack.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Universal_Anim_Library/Unity/UAL1_Standard_RMArmature_Swim_Idle_Loop.uasset",
