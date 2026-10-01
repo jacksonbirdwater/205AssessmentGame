@@ -208,7 +208,16 @@
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_Character.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Animations/APB_Player.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Animations/AB_Player.uasset",
+<<<<<<< HEAD
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_LockOnObject.uasset",
+=======
+				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_CharacterBranch.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Input/IMC_Character.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BPC_Health.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/UI/BP_HealthBar.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/1v1FightingGame.umap",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_Character.uasset",
+>>>>>>> joseph
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Inputs/IA_MoveForward.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Inputs/IA_MoveRight.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Inputs/IA_Look.uasset",

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [21948:21976:0930/124928.942:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [21948:22164:0930/124929.165:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [21948:21976:0930/124929.305:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -14167,3 +14168,15 @@ Histogram: Windows.ProcessorVirtualizationFirmwareEnabled recorded 1 samples, me
 2  O                                                                         (0 = 0.0%) {100.0%}
 
 
+=======
+[19744:23460:1001/134250.850:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19744:23460:1001/134250.867:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[19744:24872:1001/134250.903:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19744:23460:1001/134250.916:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23888:29956:1001/134255.343:ERROR:backend_impl.cc(989)] Critical error found -8
+[23888:29956:1001/134255.343:ERROR:entry_impl.cc(1029)] No file for b2020028
+[23888:29956:1001/134255.344:WARNING:storage_block-inl.h(138)] Failed data load.
+[22984:20132:1001/134256.291:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B0F42A20095309F4B8D26B45F3675064 will be ignored
+[19744:30220:1001/134307.508:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19744:23460:1001/134411.297:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> joseph
