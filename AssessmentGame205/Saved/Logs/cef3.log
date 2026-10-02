@@ -1,17 +1,7 @@
-[3460:20412:1002/125927.279:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[3460:2372:1002/125927.548:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[3460:20412:1002/125927.685:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3460:25896:1002/125937.544:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3460:25896:1002/125937.818:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3460:25896:1002/125937.819:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3460:25896:1002/125937.821:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3460:2372:1002/125943.278:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3460:2372:1002/125943.280:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10144:25780:1002/125944.733:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-627602E148E93C02CA06F2D1DB581C38 will be ignored
-[3460:20412:1002/130002.453:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3460:20412:1002/130007.477:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3460:20412:1002/130037.519:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3460:20412:1002/130042.570:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3460:20412:1002/130047.570:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3460:20412:1002/130052.606:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3460:20412:1002/150426.288:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[32232:35220:1002/171539.681:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32232:31692:1002/171539.753:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[32232:35220:1002/171539.767:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3944:26144:1002/171545.110:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AD4053FE9BB792C7EFAB5E6B8EDA050D will be ignored
+[32232:19064:1002/171547.838:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[32232:19064:1002/171548.548:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[32232:35220:1002/172544.933:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
