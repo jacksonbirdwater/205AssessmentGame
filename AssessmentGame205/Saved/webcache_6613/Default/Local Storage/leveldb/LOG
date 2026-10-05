@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 2026/10/02-17:15:39.875 238c Reusing MANIFEST C:\Users\sunny\OneDrive\Documents\Unreal Projects\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
 2026/10/02-17:15:39.889 238c Recovering log #3
@@ -7,3 +8,7 @@
 2026/10/02-12:53:28.256 d08 Recovering log #3
 2026/10/02-12:53:28.259 d08 Reusing old log C:\Users\sunny\OneDrive\Documents\Unreal Projects\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
 >>>>>>> main
+=======
+2026/10/06-12:00:55.556 27c4 Creating DB C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/10/06-12:00:55.579 27c4 Reusing MANIFEST C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+>>>>>>> Stashed changes

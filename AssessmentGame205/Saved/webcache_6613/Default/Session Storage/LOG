@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 2026/10/02-17:15:45.057 238c Reusing MANIFEST C:\Users\sunny\OneDrive\Documents\Unreal Projects\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
 2026/10/02-17:15:45.059 238c Recovering log #3
@@ -7,3 +8,7 @@
 2026/10/02-12:53:34.546 d08 Recovering log #3
 2026/10/02-12:53:34.548 d08 Reusing old log C:\Users\sunny\OneDrive\Documents\Unreal Projects\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Session Storage/000003.log 
 >>>>>>> main
+=======
+2026/10/06-12:01:04.225 27c4 Creating DB C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Session Storage since it was missing.
+2026/10/06-12:01:04.241 27c4 Reusing MANIFEST C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+>>>>>>> Stashed changes
