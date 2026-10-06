@@ -1,34 +1,19 @@
-<<<<<<< Updated upstream
-[32232:35220:1002/171539.681:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[32232:31692:1002/171539.753:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[32232:35220:1002/171539.767:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3944:26144:1002/171545.110:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AD4053FE9BB792C7EFAB5E6B8EDA050D will be ignored
-[32232:19064:1002/171547.838:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32232:19064:1002/171548.548:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[32232:35220:1002/172544.933:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[8652:8036:1006/120054.871:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8652:8036:1006/120055.101:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[8652:17120:1006/120055.302:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8652:8036:1006/120055.474:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8652:12744:1006/120102.724:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8652:12744:1006/120102.729:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8652:12744:1006/120102.731:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8652:12744:1006/120102.734:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8652:8036:1006/120103.213:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:17120:1006/120103.447:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8652:17120:1006/120103.454:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16820:23484:1006/120104.265:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7777E4B746EE0DCC487660DCF99FDD2A will be ignored
-[1520:10736:1006/120104.438:ERROR:entry_impl.cc(1029)] No file for 8000000b
-[1520:10736:1006/120104.438:ERROR:entry_impl.cc(1029)] No file for 8000000c
-[8652:8036:1006/120138.440:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:8036:1006/120143.443:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:8036:1006/120148.444:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:8036:1006/120153.445:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:8036:1006/120158.488:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:8036:1006/120203.493:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:8036:1006/120208.516:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:8036:1006/120213.532:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:8036:1006/120228.598:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8652:8036:1006/120600.421:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> Stashed changes
+[7212:23832:1006/131340.680:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7212:25948:1006/131340.836:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7212:23832:1006/131340.905:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7212:16324:1006/131349.781:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7212:16324:1006/131349.786:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7212:16324:1006/131349.788:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7212:16324:1006/131349.790:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7212:20972:1006/131353.184:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7212:20972:1006/131353.187:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24224:12968:1006/131354.413:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5D3A8A11F531814C355A97A852800679 will be ignored
+[7212:23832:1006/131437.259:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7212:23832:1006/131442.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7212:23832:1006/131452.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7212:23832:1006/131457.545:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7212:23832:1006/131502.545:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7212:23832:1006/131507.547:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7212:23832:1006/131512.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7212:23832:1006/131517.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[7212:23832:1006/143804.023:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
