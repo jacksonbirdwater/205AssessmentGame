@@ -1,19 +1,39 @@
-[7212:23832:1006/131340.680:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7212:25948:1006/131340.836:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[7212:23832:1006/131340.905:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[7212:16324:1006/131349.781:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7212:16324:1006/131349.786:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7212:16324:1006/131349.788:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7212:16324:1006/131349.790:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7212:20972:1006/131353.184:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7212:20972:1006/131353.187:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24224:12968:1006/131354.413:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5D3A8A11F531814C355A97A852800679 will be ignored
-[7212:23832:1006/131437.259:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7212:23832:1006/131442.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7212:23832:1006/131452.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7212:23832:1006/131457.545:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7212:23832:1006/131502.545:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7212:23832:1006/131507.547:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7212:23832:1006/131512.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7212:23832:1006/131517.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[7212:23832:1006/143804.023:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16232:2916:1009/133746.959:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16232:24460:1009/133747.436:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16232:2916:1009/133747.647:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16232:24460:1009/133755.009:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16232:24460:1009/133755.013:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16232:24460:1009/133755.020:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16232:24460:1009/133755.022:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16232:20328:1009/133802.298:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16232:20328:1009/133802.300:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16380:28660:1009/133802.402:ERROR:backend_impl.cc(989)] Critical error found -8
+[16380:28660:1009/133802.402:ERROR:entry_impl.cc(1029)] No file for b2020014
+[16380:28660:1009/133802.403:WARNING:storage_block-inl.h(138)] Failed data load.
+[28516:13516:1009/133803.482:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9BB8B578DB25AB16C1ABA2A49156440E will be ignored
+[21232:8416:1009/133804.993:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21232:10380:1009/133805.110:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21232:10380:1009/133805.110:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21232:10380:1009/133805.112:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16232:2916:1009/133805.417:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16232:2916:1009/133805.418:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16232:2916:1009/133805.418:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16232:2916:1009/133805.418:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16232:28256:1009/133805.488:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[17256:20812:1009/133805.716:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17256:24756:1009/133805.790:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17256:24756:1009/133805.790:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17256:24756:1009/133805.790:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16232:24460:1009/133808.160:ERROR:sandbox_directory_database.cc(915)] SandboxDirectoryDatabase failed at: Init@storage\browser\file_system\sandbox_directory_database.cc:715 with error: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16232:24460:1009/133808.161:WARNING:sandbox_directory_database.cc(727)] Corrupted SandboxDirectoryDatabase detected. Attempting to repair.
+[17256:20812:1009/133808.670:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2368:30832:1009/134013.297:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2368:30832:1009/134013.297:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16232:2916:1009/134250.866:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16232:2916:1009/134255.921:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16232:2916:1009/134300.921:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16232:2916:1009/134305.921:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16232:2916:1009/134310.947:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16232:2916:1009/134315.955:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16232:2916:1009/134321.007:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16232:2916:1009/141123.071:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

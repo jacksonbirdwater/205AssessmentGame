@@ -1,3 +1,2 @@
-2026/10/06-13:13:41.000 514 Reusing MANIFEST C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/06-13:13:41.006 514 Recovering log #3
-2026/10/06-13:13:41.009 514 Reusing old log C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/10/09-13:37:47.752 523c Creating DB C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/10/09-13:37:47.778 523c Reusing MANIFEST C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
