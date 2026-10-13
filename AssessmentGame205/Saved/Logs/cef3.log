@@ -1,52 +1,8 @@
-<<<<<<< HEAD
-[4004:30068:1013/125547.819:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4004:26116:1013/125547.884:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4004:30068:1013/125547.921:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[27612:17872:1013/125554.363:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B813DB29E9CA1412BA9E65B8091B9700 will be ignored
-[4004:29256:1013/125558.546:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14296:8668:1013/130601.669:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-CB9C51FAF5AE00ECDDB1EF610E1E6CB8 will be ignored
-[4004:30068:1013/131341.523:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4004:30068:1013/131346.523:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4004:30068:1013/131351.523:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4004:30068:1013/132129.233:ERROR:device_event_log_impl.cc(196)] [13:21:29.216] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[4004:30068:1013/132129.272:ERROR:device_event_log_impl.cc(196)] [13:21:29.254] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
-[4004:30068:1013/134939.008:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[21988:27392:1013/125215.832:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21988:11844:1013/125215.932:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21988:27392:1013/125215.982:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21988:12136:1013/125224.237:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21988:12136:1013/125224.242:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21988:12136:1013/125224.244:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21988:12136:1013/125224.246:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21988:27392:1013/125227.878:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125237.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:12136:1013/125239.564:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21988:12136:1013/125239.567:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21988:27392:1013/125239.811:ERROR:device_event_log_impl.cc(196)] [12:52:39.585] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[17652:12028:1013/125240.033:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EA5E4B00B4C0812D4347411C98FBDA26 will be ignored
-[21988:27392:1013/125242.728:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125247.733:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125252.745:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125301.419:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125306.457:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125315.019:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125320.063:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125325.063:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125330.063:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125335.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125340.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125345.539:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125350.549:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125400.556:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125410.612:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/125415.626:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/130834.184:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/132505.716:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/132510.745:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/132515.752:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/132520.795:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/132525.941:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/132530.941:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[21988:27392:1013/132817.927:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> joseph
+[29996:28080:1013/135747.015:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29996:30064:1013/135747.074:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29996:28080:1013/135747.091:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8680:28728:1013/135752.023:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DC82ADB1E97DF2D56255850682989C64 will be ignored
+[30016:6556:1013/135752.813:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-FE8FC2CECA21DFD8D211D67C698E77A6 will be ignored
+[30176:23152:1013/135754.041:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[29996:5456:1013/135803.470:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[29996:28080:1013/141238.583:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
