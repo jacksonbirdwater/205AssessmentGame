@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [21988:27392:1013/125215.832:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [21988:11844:1013/125215.932:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [21988:27392:1013/125215.982:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -35,3 +36,52 @@
 [21988:27392:1013/132525.941:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
 [21988:27392:1013/132530.941:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
 [21988:27392:1013/132817.927:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[15048:24328:1013/142556.338:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15048:24776:1013/142556.435:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15048:24328:1013/142556.449:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15048:25800:1013/142600.866:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15048:25800:1013/142600.870:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15048:25800:1013/142600.872:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15048:25800:1013/142600.874:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15048:25800:1013/142603.419:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15048:25800:1013/142603.421:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29588:13936:1013/142605.223:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E6CA2F719C2C6FECD914BC7B8937B131 will be ignored
+[15048:24328:1013/142616.828:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142621.870:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142626.871:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142631.980:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142742.353:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142747.361:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142752.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142807.404:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142812.404:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142817.419:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142822.470:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142827.473:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142832.525:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142837.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142842.557:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142847.559:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142852.565:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142857.618:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142902.634:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142907.660:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142912.661:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142917.661:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142922.711:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142927.757:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142932.811:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142937.865:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142942.890:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142947.895:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142952.948:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/142958.002:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/143003.036:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/143008.088:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/143013.143:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/143018.171:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/143023.171:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/143028.240:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15048:24328:1013/150715.519:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes

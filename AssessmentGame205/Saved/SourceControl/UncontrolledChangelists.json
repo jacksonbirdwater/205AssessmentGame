@@ -5,20 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Input/IMC_Character.uasset",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BPC_Health.uasset",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/UI/BP_HealthBar.uasset",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/1v1FightingGame.umap",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_Character.uasset",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Levels/AITesting.umap",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_NPC.uasset",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/UI/BP_AIHealthBar.uasset",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_CharTesting.uasset",
 				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/AI_NPC.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_NPC.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BTT_ExecutePunch.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BTS_SyncStamina.uasset",
 				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_TestGM.uasset",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_Timer.uasset",
-				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/UI/WBP_RoundTimer.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_TestChar2.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_CharTesting.uasset",
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_TestChar1.uasset",
 				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/UI/BP_HUDtest.uasset",
+<<<<<<< Updated upstream
 				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/UI/NewBlueprint.uasset",
 				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/UI/BP_TimerHUD.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Universal_Anim_Library/Unity/UAL1_Standard_RMArmature_Death01.uasset",
@@ -240,6 +236,9 @@
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_PlayerController.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_GameBase.uasset",
 				"C:/Users/sunny/OneDrive/Documents/Unreal Projects/AssessmentGame205/Content/1v1FightingGame.umap"
+=======
+				"C:/Users/Josep/Documents/GitHub/205AssessmentGame/AssessmentGame205/Content/Blueprints/BP_Timer.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
