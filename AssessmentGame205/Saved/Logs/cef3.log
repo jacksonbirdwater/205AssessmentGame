@@ -1,6 +1,12 @@
-[18028:18032:1014/172601.870:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18028:1368:1014/172601.934:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18028:18032:1014/172601.969:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9504:9556:1014/172608.205:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CDF150488D009273547AAAD2403DFC26 will be ignored
-[18028:14684:1014/172608.986:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[18028:18032:1014/172859.781:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[8332:23916:1016/104845.993:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8332:19040:1016/104846.060:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8332:23916:1016/104846.095:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24384:24376:1016/104854.457:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-44C76CFE1C37BD34EB23BE0F020263C3 will be ignored
+[8332:18956:1016/104902.531:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8332:23916:1016/104947.824:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8332:23916:1016/104952.824:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8332:23916:1016/104957.824:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8332:23916:1016/105012.828:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8332:23916:1016/105017.828:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8332:23916:1016/105027.829:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8332:23916:1016/105223.108:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
