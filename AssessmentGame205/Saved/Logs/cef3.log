@@ -1,151 +1,74 @@
-<<<<<<< Updated upstream
-[8524:25020:1020/135924.833:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8524:4396:1020/135924.891:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8524:25020:1020/135924.900:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8524:20668:1020/135929.992:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8524:20668:1020/135929.995:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8524:20668:1020/135930.001:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8524:20668:1020/135930.003:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8524:20668:1020/135930.617:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8524:20668:1020/135930.620:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8524:25020:1020/135931.313:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[8524:25020:1020/135931.314:ERROR:device_event_log_impl.cc(196)] [13:59:31.313] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_04e8&pid_6860#rfcw70by3px#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[14144:10196:1020/135931.984:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9ED1E63777A25C2C26BD1B034139DCA0 will be ignored
-[8524:25020:1020/140005.948:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140010.952:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140016.001:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140021.002:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140026.017:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140031.069:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140036.070:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140041.086:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140046.086:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140051.087:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140056.088:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140101.087:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140106.087:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140111.088:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140116.099:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140121.100:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140126.133:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140131.167:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140136.168:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140141.169:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140146.167:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140151.189:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140156.216:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140201.229:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140206.250:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140211.251:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140216.254:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140221.301:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140226.329:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140231.328:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140236.392:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140241.420:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140246.452:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140251.456:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140256.461:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140301.472:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140306.475:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140311.480:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140316.503:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140321.509:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140326.508:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140331.519:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140336.561:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140341.561:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/140346.561:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8524:25020:1020/143757.461:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[16684:14660:1029/135057.233:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16684:14660:1029/135057.452:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[16684:21624:1029/135057.589:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16684:14660:1029/135057.788:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16684:20988:1029/135105.798:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16684:20988:1029/135105.803:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16684:20988:1029/135105.807:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16684:20988:1029/135105.810:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16684:14660:1029/135106.417:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8784:14340:1029/135106.628:ERROR:backend_impl.cc(989)] Critical error found -8
-[16684:20988:1029/135106.629:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8784:14340:1029/135106.629:ERROR:entry_impl.cc(1029)] No file for b2020000
-[8784:14340:1029/135106.629:WARNING:storage_block-inl.h(138)] Failed data load.
-[16684:20988:1029/135106.641:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[25836:25680:1029/135108.821:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D4AD7CC5FEFDD28A33E9ABEF01DB9EE1 will be ignored
-[16684:14660:1029/135116.112:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135121.334:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135126.335:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135131.334:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135136.334:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135141.334:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135146.334:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135151.334:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135156.334:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135201.335:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135206.335:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135211.361:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135216.406:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135221.406:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135226.406:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135231.406:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135306.470:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135311.470:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135316.470:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135321.481:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135326.494:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135450.487:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135455.520:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135500.552:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135505.573:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135510.573:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135515.612:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135520.618:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135525.666:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135530.716:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135535.740:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135540.758:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135545.778:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135550.829:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135555.839:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135600.853:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135606.203:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135611.239:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135616.272:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135621.323:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135626.326:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135631.325:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135636.335:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135746.440:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135751.456:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135756.506:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135801.506:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135806.522:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135811.526:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135816.528:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135821.528:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135826.530:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135831.529:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135836.542:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135841.541:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135846.541:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135851.541:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135856.541:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135901.564:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135906.615:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135911.615:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135916.657:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135921.663:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135926.669:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135931.668:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135936.717:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135941.745:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135946.895:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135951.894:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/135956.920:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/140001.944:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/140006.981:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/140011.983:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/140016.999:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16684:14660:1029/143548.651:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> Stashed changes
+[25852:15932:1030/135321.005:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25852:12924:1030/135321.063:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25852:15932:1030/135321.078:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25852:19668:1030/135325.602:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25852:19668:1030/135325.607:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25852:19668:1030/135325.610:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25852:19668:1030/135325.617:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Josep\Documents\GitHub\205AssessmentGame\AssessmentGame205\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25852:7236:1030/135326.316:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7076:13904:1030/135326.318:ERROR:backend_impl.cc(989)] Critical error found -8
+[7076:13904:1030/135326.318:ERROR:entry_impl.cc(1029)] No file for b202002c
+[7076:13904:1030/135326.318:WARNING:storage_block-inl.h(138)] Failed data load.
+[25852:7236:1030/135326.319:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3100:14004:1030/135328.179:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C91EABFC9FA7D5359D33BC2E2DE2DADF will be ignored
+[25852:15932:1030/135508.346:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135518.348:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135523.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135528.402:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135533.423:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135538.423:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135553.506:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135558.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135603.587:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135608.639:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135613.711:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135618.726:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135623.743:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135628.746:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135633.786:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135638.828:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135643.851:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135648.902:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135653.912:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135658.927:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135703.928:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135708.944:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135714.176:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135719.220:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135724.229:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135729.237:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135734.287:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135739.740:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135744.770:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135749.786:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135754.786:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135759.800:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135804.801:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135809.811:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135814.867:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135819.877:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135824.876:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135829.924:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135834.945:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135842.250:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135847.288:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135852.291:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135857.291:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135902.341:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135907.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135912.420:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135917.481:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135922.540:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/135927.551:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140003.284:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140008.298:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140013.298:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140018.302:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140023.337:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140028.337:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140033.356:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140038.371:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140043.371:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140048.372:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/140053.371:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25852:15932:1030/152030.788:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
