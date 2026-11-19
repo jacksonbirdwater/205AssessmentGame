@@ -1,12 +1,8 @@
-[29948:29952:1120/101105.298:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[29948:29952:1120/101105.493:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29948:30416:1120/101120.466:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[29948:30416:1120/101132.128:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[29948:29952:1120/101529.877:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29948:29952:1120/101534.923:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29948:29952:1120/101539.960:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29948:29952:1120/101545.999:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29948:29952:1120/101552.991:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29948:29952:1120/101558.028:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29948:29952:1120/101603.137:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29948:29952:1120/101934.406:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4040:25208:1120/111336.233:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4040:25208:1120/111336.293:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10524:28776:1120/111341.971:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-14915F9BA2EC032C85CA530D3E26AFEA will be ignored
+[18248:1612:1120/111342.685:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-208C8C9FDB5BFDA224A754955A756447 will be ignored
+[11140:29188:1120/111342.773:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[4040:1888:1120/111343.480:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[4040:1888:1120/111344.814:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[4040:25208:1120/111719.468:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
