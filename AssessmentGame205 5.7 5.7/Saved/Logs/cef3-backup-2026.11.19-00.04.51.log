@@ -1,0 +1,30 @@
+[37228:27600:1119/122000.305:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[37228:27600:1119/122000.366:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33004:27568:1119/122004.127:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-27C2A2CE1E2FF242E9338FB0B3AAB3D2 will be ignored
+[9800:34328:1119/122005.628:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-9BE8033A747335DF5EBC0D717E513256 will be ignored
+[8092:16936:1119/122005.762:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[37228:31864:1119/122007.160:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[37228:31864:1119/122013.612:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[37228:27600:1119/123535.697:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[37228:27600:1119/123716.207:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[37228:27600:1119/123726.261:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[30788:39868:1119/130405.063:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[30788:39868:1119/130405.070:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[30788:39868:1119/130405.071:VERBOSE1:tls_handshaker.cc(126)] TlsClient: SSL_do_handshake returned when entering early data. After retry, rv=-1, SSL_in_early_data=1
+[30788:39868:1119/130405.208:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[30788:39868:1119/130405.208:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[30788:39868:1119/130405.208:VERBOSE1:tls_client_handshaker.cc(528)] Client: handshake finished
+[37228:31864:1119/130428.075:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=54})
+[37228:31864:1119/130430.076:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=56})
+[37228:31864:1119/130431.077:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=58})
+[37228:31864:1119/130433.080:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=56})
+[37228:31864:1119/130435.085:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=55})
+[37228:31864:1119/130438.085:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=52})
+[37228:31864:1119/130439.083:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=50})
+[37228:31864:1119/130445.092:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=49})
+[37228:31864:1119/130446.100:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=48})
+[37228:31864:1119/130447.087:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=47})
+[37228:31864:1119/130448.092:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=52})
+[37228:31864:1119/130449.094:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=54})
+[37228:31864:1119/130450.138:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=52})
+[37228:31864:1119/130451.365:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00003844023B6D40}, {new_limit=100})

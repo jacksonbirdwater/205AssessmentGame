@@ -1,0 +1,12 @@
+[29948:29952:1120/101105.298:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29948:29952:1120/101105.493:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29948:30416:1120/101120.466:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[29948:30416:1120/101132.128:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[29948:29952:1120/101529.877:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29948:29952:1120/101534.923:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29948:29952:1120/101539.960:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29948:29952:1120/101545.999:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29948:29952:1120/101552.991:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29948:29952:1120/101558.028:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29948:29952:1120/101603.137:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[29948:29952:1120/101934.406:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

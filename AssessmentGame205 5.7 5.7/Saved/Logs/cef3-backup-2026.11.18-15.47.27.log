@@ -1,0 +1,24 @@
+[18980:29620:1119/044340.873:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18980:29620:1119/044340.979:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20568:31444:1119/044346.563:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DBF45880D53A6ECAE17F66C8BAA5C4E5 will be ignored
+[38208:32824:1119/044347.231:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[38208:6204:1119/044347.325:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[38208:6204:1119/044347.325:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[38208:6204:1119/044347.329:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18980:29160:1119/044347.802:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[18980:29160:1119/044347.809:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18980:29620:1119/044347.930:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[18980:29620:1119/044347.930:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[18980:29620:1119/044347.930:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[18980:29620:1119/044347.930:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[18980:29160:1119/044347.996:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[34828:38436:1119/044348.297:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34828:31720:1119/044348.438:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34828:31720:1119/044348.438:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34828:31720:1119/044348.440:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18980:29160:1119/044349.571:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[34828:38436:1119/044352.906:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[38208:35060:1119/044559.077:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-99941616EE9B4874CEE155F31A5C18E5 will be ignored
+[33112:36936:1119/044559.211:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[33112:36936:1119/044559.211:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[18980:29620:1119/044727.911:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
